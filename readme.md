@@ -12,6 +12,8 @@ chamy is non-responsive css framework.it's really helpful to build a sites witho
     
     <script src="https://cdn.jsdelivr.net/gh/sureshpandiyan1/chamy@master/dist/chamy.min.js"></script>
 
+# prerequisite:
+    need to know css knowledge in basic level
 
 # why do you need chamy ?
 
