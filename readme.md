@@ -7,12 +7,10 @@
 chamy is non-responsive css framework.it's really helpful to build a sites without need of separate stylesheets.even, you can add your own class and id to implement in your style too, it's won't cut off your limited of adding a new codes, still work flawless like before even you add your own class and ids too
 
 # how to install
-
-    npm install chamy
     
-    if you really don't need to download a file, just place this one below inside your <head> tag:
+    if you really don't need to download a file, just place this line inside your <head> tag:
     
-    <script src="https://cdn.jsdelivr.net/npm/chamy@1.0.0/dist/chamy.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/sureshpandiyan1/chamy@master/dist/chamy.min.js"></script>
 
 
 # highlights
