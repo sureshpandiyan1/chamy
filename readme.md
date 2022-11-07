@@ -1,4 +1,14 @@
 
+</div>
+<div align="left">
+<a href="https://github.com/sureshpandiyan1/chamy/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/sureshpandiyan1/instagram-scraper-it"></a>
+<a href="https://github.com/sureshpandiyan1/chamy/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/sureshpandiyan1/instagram-scraper-it"></a>
+<a href="https://github.com/sureshpandiyan1/chamy/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sureshpandiyan1/instagram-scraper-it"></a>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sureshpandiyan1/chamy">
+<img alt="NPM" src="https://img.shields.io/npm/l/chamy?color=green">
+<img alt="npm" src="https://img.shields.io/npm/dt/chamy?label=npm-downloads">
+</div>
+
 
 <img src ="https://user-images.githubusercontent.com/112636345/200242913-07daade9-8315-4eeb-b671-90ba7b0acbed.png" width="470px">
 
