@@ -21,5 +21,7 @@ chamy is non-responsive css framework.it's really helpful to build a sites witho
 # Documentation
 https://sureshpandiyancc.wixsite.com/chamy
 
+# Copyright & License
+copyright @ Suresh P | Chamy | MIT License
 
 
