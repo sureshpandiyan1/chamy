@@ -1,1 +1,2 @@
 dist/*.min.js linguist-documentation=false
+dist/*.min.js linguist-language=JavaScript
