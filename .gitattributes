@@ -1,2 +1,1 @@
-dist/*.min.js linguist-documentation=false
 dist/* linguist-vendored
