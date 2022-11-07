@@ -13,7 +13,7 @@ chamy is non-responsive css framework.it's really helpful to build a sites witho
     <script src="https://cdn.jsdelivr.net/gh/sureshpandiyan1/chamy@master/dist/chamy.min.js"></script>
 
 
-# why should you use chamy ?
+# why do you need chamy ?
 
 - 140 HTML COLORS AND RGB, HSL, No limit in colors anymore!!
 - UNITS LIKE PX , REM, EM, %
