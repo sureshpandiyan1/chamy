@@ -1,2 +1,3 @@
 dist/*.min.js linguist-documentation=false
 dist/*.js linguist-language=JavaScript
+dist/* linguist-vendored
