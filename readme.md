@@ -1,5 +1,7 @@
-
-
+[![GitHub stars](https://img.shields.io/github/stars/sureshpandiyan1/chamy)](https://github.com/sureshpandiyan1/chamy/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sureshpandiyan1/chamy)](https://github.com/sureshpandiyan1/chamy/network)
+[![GitHub issues](https://img.shields.io/github/issues/sureshpandiyan1/chamy)](https://github.com/sureshpandiyan1/chamy/issues)
+[![GitHub license](https://img.shields.io/github/license/sureshpandiyan1/chamy)](https://github.com/sureshpandiyan1/chamy)
 
 <img src ="https://user-images.githubusercontent.com/112636345/200242913-07daade9-8315-4eeb-b671-90ba7b0acbed.png" width="470px">
 
