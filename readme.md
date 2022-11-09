@@ -16,7 +16,7 @@ chamy is non-responsive css framework.it's really helpful to build a sites witho
     
     npm install chamy
     
-    <script src="https://cdn.jsdelivr.net/npm/chamy@1.1.0/chamy.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chamy@1.2.0/chamy.min.js"></script>
 
 
 # prerequisite:
